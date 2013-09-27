@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Aspose.OCR</id>
+    <version>1.6.0</version>
+    <title>Aspose.OCR for .NET</title>
+    <authors>Aspose</authors>
+    <owners>Aspose</owners>
+    <licenseUrl>http://www.aspose.com/corporate/purchase/end-user-license-agreement.aspx</licenseUrl>
+    <projectUrl>http://www.aspose.com/categories/.net-components/aspose.ocr-for-.net/default.aspx</projectUrl>
+    <iconUrl>http://www.aspose.com/images/products/dotnet/Aspose.OCR_128x128.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Aspose.OCR for .NET is a character and optical mark recognition component built to allow developers to add OCR and OMR functionality in their ASP.NET web applications, web services and Windows applications. It provides a simple set of classes for controlling character and optical mark recognition</description>
+    <summary>Aspose.OCR for .NET is a character and optical mark recognition component built to allow developers to add OCR and OMR functionality in their .NET applications</summary>
+    <releaseNotes>New features
+	33325 - Detect checkbox is filled or empty.
+	33345 - Support of radio button element.
+	33346 -	Support of grid element</releaseNotes>
+    <copyright>© Aspose 2002-2013. All Rights Reserved.</copyright>
+    <language />
+    <tags>OCR OCRText ExtractText Aspose.OCR</tags>
+    <references>
+      <reference file="Aspose.OCR.dll" />
+      <reference file="Aspose.OMR.dll" />
+    </references>
+  </metadata>
+</package>
